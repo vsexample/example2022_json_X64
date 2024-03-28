@@ -44,8 +44,6 @@ MaxEmptyLinesToKeep: 1
 ObjCSpaceAfterProperty: true
 # OC block后面的缩进
 ObjCBlockIndentWidth: 4
-# 是否允许短方法单行
-AllowShortFunctionsOnASingleLine: false
 # 换行的时候对齐操作符
 #AlignOperands: true
 # 中括号两边空格 [] 
